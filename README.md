@@ -9,6 +9,6 @@ Nesse abordamos:
 - Checkbox customizado e com acessibilidade
 - Validando campos e submetendo formulários
 
-Link do projeto completo: [https://moveiscustomizados.netlify.app](url)
+Link do projeto completo: [https://compartilhe-seu-evento.netlify.app](url)
 
 Esta é uma aplicação que foi desenvolvida com 💜 por Thiago Lucas. ... Projeto feito através da @Rocketseat.
